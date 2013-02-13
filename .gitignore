@@ -1,3 +1,5 @@
 usr*
 lib*
 .c9revisions
+include
+share
